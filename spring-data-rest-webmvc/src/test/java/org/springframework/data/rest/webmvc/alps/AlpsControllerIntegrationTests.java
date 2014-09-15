@@ -41,7 +41,7 @@ import org.springframework.web.context.WebApplicationContext;
 
 /**
  * Integration tests for {@link AlpsController}.
- * 
+ *
  * @author Oliver Gierke
  * @author Greg Turnquist
  */
